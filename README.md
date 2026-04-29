@@ -1,7 +1,7 @@
 # Claude DNA
 
 > [!CAUTION]
-> This repository is under constant development. I create and refine skills on the fly as soon as I identify a new requirement or a specific area where the model needs better instructions.
+> This repository is under constant development. I create and refine skills as soon as I identify a new requirement or a specific area where the model needs better instructions.
 
 This repository serves as a central warehouse for the modular AI skills I use to interact with LLMs.
 
