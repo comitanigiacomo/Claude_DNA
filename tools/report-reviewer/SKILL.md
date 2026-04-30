@@ -1,5 +1,5 @@
 ---
-name: academic-report-reviewer
+name: report-reviewer
 description: Enforce academic rigor in technical report writing with mandatory structure, justified design decisions, formal IEEE citations, and objective impersonal style. Requires Abstract-Context-Methodology-Results-Conclusions flow, eliminates unsupported claims and colloquialisms. Use when reviewing, structuring, or critiquing project reports and technical documentation.
 ---
 
